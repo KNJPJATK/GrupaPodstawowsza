@@ -1,0 +1,2 @@
+# GrupaPodstawowsza
+Repo grupy podstawowszej
