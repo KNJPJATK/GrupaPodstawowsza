@@ -1,0 +1,3 @@
+Tablice
+String
+if oraz switch

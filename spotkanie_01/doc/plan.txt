@@ -1,0 +1,11 @@
+kompilacja w wierszu poleceń.
+  polskie znaki w Win -> PowerShell
+
+Eclipse, IntelliJ
+* podpinanie JDK
+* upewnij się, że źródła także są podpięte
+* domyślne kodowanie ustaw na UTF8
+
+zmienne. typy - proste, operacje na zmiennych, na tekstach,
+
+klasa Scanner

@@ -1,0 +1,29 @@
+pętle
+
+for
+while
+do-while
+
+--------------
+
+while (warunek_kontynuacji) {}
+
+do {
+} while (warunek_kontynuacji)
+
+for (; warunek_kontynuacji; ){
+}
+
+
+
+Control Flow Statements
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html
+
+Questions, exercises:
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/QandE/questions_flow.html
+
+funkcyjnie w Javie
+
+https://en.wikipedia.org/wiki/Fizz_buzz
+
+Scratch ?

@@ -8,14 +8,14 @@ public class Dates {
 
     public static void main(String[] args){
         if (args.length==0){
-            System.out.println("Podaj miesi¹c i dzieñ");
+            System.out.println("Podaj miesiÄ…c i dzieÅ„");
             return;
         }
         int dzien = Integer.parseInt(args[1]);
         int miesiac = Integer.parseInt(args[0]);
 
         System.out.println(
-                "Liczba dni od pocz¹tku roku: " + getTotalDays(miesiac, dzien)
+                "Liczba dni od poczÄ…tku roku: " + getTotalDays(miesiac, dzien)
         ); //TDD
     }
 
