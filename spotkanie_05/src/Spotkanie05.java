@@ -5,6 +5,11 @@ public class Spotkanie05 {
 
     public static void main(String[] args){
 
+        // Rozmowa o pracy domowej Zadania4
+        // https://gist.github.com/
+
+        // 
+
         // Zmienne instancyjne przechowują stan obiektu.
         // Metody umożliwiają zmienianie stanu.
 
@@ -13,14 +18,14 @@ public class Spotkanie05 {
         // * jeśli potrzebny jest dostęp do tych zmiennych, możemy udostępnić gettery/settery.
 
         // przykład gettera:
-        public double getSaldo(){
-            return saldo;
-        };
+//        public double getSaldo(){
+//            return saldo;
+//        };
 
         // setter:
-        public double setSaldo(double saldo){
-            this.saldo = saldo;
-        }
+//        public double setSaldo(double saldo){
+//            this.saldo = saldo;
+//        }
 
         // W klasie konto nie mamy settera, ponieważ:
         // zgodnie z zasadą enkapsulacji, wszelkie operacje na zmiennej 'saldo' powinna wykonywać klasa Konto
